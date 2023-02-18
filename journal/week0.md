@@ -1,8 +1,10 @@
 # Week 0 — Billing and Architecture
 
 **************************************
-I already had Admin user created previously
+
 #### **Admin User**
+I already had Admin user created previously
+
 ![Alt text](../_docs/assets/admin-user.png)
 
 **************************************
