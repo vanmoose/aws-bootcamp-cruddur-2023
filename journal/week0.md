@@ -1,5 +1,9 @@
 # Week 0 — Billing and Architecture
 
+**************************************
+
+#### **Admin User**
+![Alt text](../_docs/assets/admin-user.png)
 
 **************************************
 
@@ -7,7 +11,6 @@
 ![Alt text](../_docs/assets/clousshell-screenshot.png)
 
 **************************************
-
 
 #### **AWS CLI**
 
@@ -20,3 +23,4 @@
 ![Alt text](../_docs/assets/generate-access-keys-02.png)
 
 **************************************
+
