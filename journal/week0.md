@@ -4,7 +4,7 @@
 
 
 #### Cloudshell 
-![Alt text](vscode-local:/Users/inesegorska/Desktop/Screenshot%202023-02-18%20at%2014.53.58.png)
+![Alt text](../_docs/assets/clousshell-screenshot.png)
 
 
 #### AWS CLI
