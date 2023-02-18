@@ -1,7 +1,7 @@
 # Week 0 — Billing and Architecture
 
 **************************************
-
+I already had Admin user created previously
 #### **Admin User**
 ![Alt text](../_docs/assets/admin-user.png)
 
@@ -28,3 +28,7 @@
 ![Alt text](../_docs/assets/budget.png)
 
 **************************************
+
+### **Budget Alarms**
+Budget alarms are part of my budghet setup
+![Alt text](../_docs/assets/budget-alarms.png)
