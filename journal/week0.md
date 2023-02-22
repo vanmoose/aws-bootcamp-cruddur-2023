@@ -32,15 +32,16 @@ Budget alarms are part of my budghet setup
 
 **************************************
 ### **Conceptual Diagram**
-[label](assets/Cloud-Architecture-conceptual.pdf)
+![Alt text](assets/conceptual-diagram.png)
 
-https://lucid.app/lucidchart/0ceeadec-71d6-4fd7-bfae-bd73d57fa729/edit?viewport_loc=-48%2C13%2C2110%2C920%2C0_0&invitationId=inv_4dd8aedb-49b5-40d2-beff-b935163dfbaa
+[Lucid Link](https://lucid.app/lucidchart/0ceeadec-71d6-4fd7-bfae-bd73d57fa729/edit?viewport_loc=-48%2C13%2C2110%2C920%2C0_0&invitationId=inv_4dd8aedb-49b5-40d2-beff-b935163dfbaa)
+
 
 
 **************************************
-### **ArchLogical Diagram**
-[label](assets/Cloud-Architecture-logical.pdf)
+### **Logical Diagram**
+![Alt text](assets/logical-diagram.png)
 
-https://lucid.app/lucidchart/0ceeadec-71d6-4fd7-bfae-bd73d57fa729/edit?viewport_loc=-92%2C84%2C2110%2C920%2C.0ByLc4-gatA&invitationId=inv_4dd8aedb-49b5-40d2-beff-b935163dfbaa
+[Lucid Link](https://lucid.app/lucidchart/0ceeadec-71d6-4fd7-bfae-bd73d57fa729/edit?viewport_loc=-92%2C84%2C2110%2C920%2C.0ByLc4-gatA&invitationId=inv_4dd8aedb-49b5-40d2-beff-b935163dfbaa)
 
 **************************************
